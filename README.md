@@ -1,1 +1,1 @@
-In this project, we must be able to draw a diagram covering the web stack you built with the sysadmin/devops track projects, we must be able to explain what each component is doing, we must be able to explain system redundancy, Know all the mentioned acronyms: LAMP, SPOF, QPS
+My second commit
